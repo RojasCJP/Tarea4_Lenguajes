@@ -1,14 +1,62 @@
 [
   {
     "nombre": "registro 1",
-    "edad": 45,
+    "edad": 15,
     "activo": true,
-    "saldo": 56.456
+    "saldo": 1500.50
   },
   {
     "nombre": "registro 2",
-    "edad": 35,
+    "edad": 25,
     "activo": false,
-    "saldo": 45.896
+    "saldo": 1200.50
+  },
+  {
+    "nombre": "registro 3",
+    "edad": 35,
+    "activo": true,
+    "saldo": 1010.10
+  },
+  {
+    "nombre": "registro 4",
+    "edad": 45,
+    "activo": true,
+    "saldo": 666.66
+  },
+  {
+    "nombre": "registro 5",
+    "edad": 55,
+    "activo": true,
+    "saldo": 4444.44
+  },
+  {
+    "nombre": "registro 6",
+    "edad": 65,
+    "activo": true,
+    "saldo": 555.55
+  },
+  {
+    "nombre": "registro 7",
+    "edad": 20,
+    "activo": true,
+    "saldo": 6969.69
+  },
+  {
+    "nombre": "registro 8",
+    "edad": 30,
+    "activo": false,
+    "saldo": 3546.58
+  },
+  {
+    "nombre": "registro 9",
+    "edad": 40,
+    "activo": false,
+    "saldo": 12345.58
+  },
+  {
+    "nombre": "registro 10",
+    "edad": 50,
+    "activo": false,
+    "saldo": 125.12
   }
 ]
