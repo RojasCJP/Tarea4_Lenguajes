@@ -1,0 +1,15 @@
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 150%;
+}
+
+th {
+  height: 50px;
+  background-color: #4CAF50;
+    color: white;
+}
